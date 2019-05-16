@@ -1,3 +1,6 @@
+# Fork content
+- includes support for `goog.module`
+
 # karma-closure [![Build Status](https://travis-ci.org/karma-runner/karma-closure.png?branch=master)](https://travis-ci.org/karma-runner/karma-closure)
 
 > A Karma plugin that resolves [Google Closure](https://developers.google.com/closure/library/) dependencies on the fly.
