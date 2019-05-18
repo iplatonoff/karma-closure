@@ -1,5 +1,5 @@
 # Fork content
-- includes support for `goog.module`
+- includes support for `goog.module`. It only checks that required dependencies are available, but does nothing else.
 
 # karma-closure [![Build Status](https://travis-ci.org/karma-runner/karma-closure.png?branch=master)](https://travis-ci.org/karma-runner/karma-closure)
 
